@@ -1,6 +1,6 @@
 div.content {
     padding:0 16px;
-    font-family: Aileron, serif;
+    font-family: Aileron;
 }
 
 @font-face {
@@ -14,7 +14,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #d3a802;
-    font-family: Aileron, serif;
+    font-family: Aileron;
   }
   
   li {
@@ -81,5 +81,5 @@ ul {
     background-color: #d3a807;
     color: #68037d;
     text-align: center;
-    font-family: Aileron, serif;
+    font-family: Aileron;
   }
